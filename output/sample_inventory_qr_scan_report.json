@@ -1,0 +1,18 @@
+{
+    "filename": "sample_inventory_qr.jpg",
+    "decoded_payload": "ITEM-9842-MACBOOK-PRO",
+    "database_match": true,
+    "processing_time_sec": 0.0864,
+    "product_info": {
+        "name": "Apple MacBook Pro 16\" M3 Max",
+        "category": "Computers & Electronics",
+        "price_usd": 2499.0,
+        "stock_status": "IN STOCK",
+        "quantity": 14,
+        "warehouse_bin": "A-12-04"
+    },
+    "output_files": {
+        "scanned_image": "output\\sample_inventory_qr_scanned.jpg",
+        "inventory_montage": "output\\sample_inventory_qr_inventory_montage.jpg"
+    }
+}
